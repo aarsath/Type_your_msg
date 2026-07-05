@@ -63,14 +63,3 @@ No installation or dependencies required — just a web browser.
 - CSS3
 - JavaScript (Vanilla, ES6)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues) if you want to contribute.
-
-## Author
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
